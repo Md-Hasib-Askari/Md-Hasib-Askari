@@ -4,8 +4,9 @@
 </p>
 
 <!-- Social Media -->
-<h2>Find Me on </h2>
+
 <p align="center">
+  <b>Find Me on </b>
   <a href="https://www.linkedin.com/in/mdhasibaskari/" align="center">
     <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/>
   </a>
