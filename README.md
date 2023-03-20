@@ -60,3 +60,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mdhasibaskari/
 - 😄 Pronouns: 
 - ⚡ Fun fact: Code while awake(); Debug while asleep();
+
+
+<!-- Footer Animation -->
+<p aligh="center">
+  <img src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/footer.svg"/>
+</p>
