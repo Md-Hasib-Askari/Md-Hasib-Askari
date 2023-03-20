@@ -5,7 +5,15 @@
 
 <!-- Social Media -->
 <a href="https://www.linkedin.com/in/mdhasibaskari/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/>
+</a>
+
+<a href="https://www.facebook.com/askarihasib/">
+  <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/facebook.png"/>
+</a>
+
+<a href="https://twitter.com/DevHasib">
+  <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/>
 </a>
 
 ### Hi there 👋
