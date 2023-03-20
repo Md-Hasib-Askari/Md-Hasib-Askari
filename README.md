@@ -4,15 +4,15 @@
 </p>
 
 <!-- Social Media -->
-<a href="https://www.linkedin.com/in/mdhasibaskari/">
+<a href="https://www.linkedin.com/in/mdhasibaskari/" align="center">
   <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/>
 </a>
 
-<a href="https://www.facebook.com/askarihasib/">
+<a href="https://www.facebook.com/askarihasib/" align="center">
   <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/facebook.png"/>
 </a>
 
-<a href="https://twitter.com/DevHasib">
+<a href="https://twitter.com/DevHasib" align="center">
   <img height="50" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/>
 </a>
 
