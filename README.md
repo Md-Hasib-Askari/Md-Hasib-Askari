@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/header.svg"/>
 </p>
 
 <!-- Social Media -->
