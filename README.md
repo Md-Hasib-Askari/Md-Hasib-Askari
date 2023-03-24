@@ -58,9 +58,9 @@
 - 👯 I’m looking to collaborate on Django Projects
 - 🤔 I’m looking forward to help with Python
 - 💬 Ask me about something interesting
-- 📫 How to reach me: <span><a href="https://www.linkedin.com/in/mdhasibaskari/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mdhasibaskari/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/></a>
 <a href="https://www.facebook.com/askarihasib/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/facebook.png"/></a>
-<a href="https://twitter.com/DevHasib""><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/></a> </span>
+<a href="https://twitter.com/DevHasib"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: All my efforts will soon replaced by AI. :)
 
