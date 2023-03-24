@@ -60,7 +60,7 @@
 - 💬 Ask me about anything interesting
 - 📫 How to reach me: https://www.linkedin.com/in/mdhasibaskari/
 - 😄 Pronouns: 
-- ⚡ Fun fact: Code while awake(); Debug while asleep();
+- ⚡ Fun fact: All my efforts will soon replaced by AI. :)
 
 
 <!-- Footer Animation -->
