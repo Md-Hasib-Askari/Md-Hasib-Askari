@@ -54,7 +54,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA, MERN
 - 👯 I’m looking to collaborate on Django Projects
 - 🤔 I’m looking forward to help with Python
 - 💬 Ask me about something interesting
