@@ -49,20 +49,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react js" width="45" height="45"  />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next js" width="45" height="45" />
+          
 </p>
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning DSA, MERN
-- 👯 I’m looking to collaborate on Django Projects
-- 🤔 I’m looking forward to help with Python
+- 👯 I’m looking to collaborate on MERN Projects
+- 🤔 I’m looking forward to helping with Python & JavaScript
 - 💬 Ask me about something interesting
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mdhasibaskari/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/></a>
 <a href="https://www.facebook.com/askarihasib/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/facebook.png"/></a>
 <a href="https://twitter.com/DevHasib"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/></a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: All my efforts will soon replaced by AI. :)
+- ⚡ Fun fact: All my efforts will soon be replaced by AI. :)
 
 
 <!-- Footer Animation -->
