@@ -59,9 +59,9 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning DSA, MERN
-- 👯 I’m looking to collaborate on MERN Projects
+- 🔭 I’m currently working on TypeScript
+- 🌱 I’m currently learning DSA, Rust, AI Agents, System Design
+- 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking forward to helping with Python & JavaScript
 - 💬 Ask me about something interesting
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mdhasibaskari/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/></a>
