@@ -81,10 +81,10 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on TypeScript
-- 🌱 I’m currently learning DSA, Rust, AI Agents, System Design
-- 👯 I’m looking to collaborate on Full Stack Development
-- 🤔 I’m looking forward to helping with Python & JavaScript
+- 🔭 I’m currently working on Typescript, .NET Core
+- 🌱 I’m currently learning DSA, .NET Core, AI Agents, System Design, Deep Learning (CV, NLP), Deep Reinforcement Learning
+- 👯 I’m looking to collaborate on Backend System Development
+- 🤔 I’m looking forward to helping with Python, Typescript, .NET Core
 - 💬 Ask me about something interesting
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mdhasibaskari/"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/linkedin.png"/></a>
 <a href="https://twitter.com/DevHasib"><img height="20" src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/twitter.png"/></a>
